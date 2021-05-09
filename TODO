@@ -1,0 +1,9 @@
+ ================ Tue, May 11 ================
+1. Create new React application "react-forms-create"
+2. Create 2 forms (the forms must be different, form 1 should be diffent of form2), each form should update the user interface by adding new object instances (as we saw in class)
+3. The forms should be validated (e.g. negative values... etc.) and display errores to the end user.
+4. The objects should be invented
+
+5. Attach screenshots to the github repository (.jpg, .png)
+    5.1. Application working (components, design CSS)
+    5.2. Printed values with console.log()
