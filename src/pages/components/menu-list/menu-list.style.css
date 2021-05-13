@@ -1,0 +1,9 @@
+.menu-list-container{
+    width: 72%;
+    margin: 300px;
+    min-height: 300px;   
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border: 3px solid grey; 
+    
+}
