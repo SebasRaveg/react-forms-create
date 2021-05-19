@@ -1,9 +1,49 @@
 .menu-list-container{
-    width: 72%;
-    margin: 300px;
+    width: 95%;
     min-height: 300px;   
     margin-top: 15px;
-    margin-bottom: 15px;
-    border: 3px solid grey; 
-    
+    margin-bottom: 15px;    
 }
+
+input{
+    background-color: #fbfbfb; 
+    width: 300px; 
+    height: 30px; 
+    border-radius: 5px;  
+    border-style: solid; 
+    border-width: 1px; 
+    border-color: red; 
+    margin-top: 5px;
+    margin: 0 auto;
+    padding-left: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px; 
+  }
+
+  select{
+    background-color: #fbfbfb; 
+    width: 400px; 
+    height: 40px; 
+    border-radius: 5px;  
+    border-style: solid; 
+    border-width: 1px; 
+    border-color: red; 
+    margin-top: 10px;  
+    padding-left: 10px;
+    margin-bottom: 20px; 
+  
+  }
+
+  button{
+    height: 30px; 
+    padding-left: 5px;
+    padding-right: 5px;   
+    margin-bottom: 20px; 
+    margin-top: 10px;   
+    text-transform: uppercase;
+    border-color: red; 
+    border-style: solid; 
+    border-radius: 10px;  
+    width: 200px;   
+    cursor: pointer;
+  }
